@@ -11,15 +11,17 @@ RedisBungee uses [Redis](https://redis.io) to Synchronize data between all proxi
 * [Velocity](https://github.com/PaperMC/Velocity) proxies
 * *note: they can work with each other without issues*
 
-## Maven
+## Api usage and project compilation 
 RedisBungee is distributed as a [maven](https://maven.apache.org) project.
+
+*todo: adding how to compile it + using it in your plugin*
 
 ## Javadocs
 https://limework.net/JavaDocs/
 
 ## Configuration
 
-**REDISBUNGEE REQUIRES A REDIS SERVER**, preferably with reasonably low latency. The default [config](https://github.com/limework/RedisBungee/blob/master/src/main/resources/example_config.yml) is saved when the plugin first starts.
+**REDISBUNGEE REQUIRES A REDIS SERVER**, preferably with reasonably low latency. The default [config](https://github.com/limework/RedisBungee/blob/v1.0.0/src/main/resources/example_config.yml) is saved when the plugin first starts.
 
 ## License!
 
